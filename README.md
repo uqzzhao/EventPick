@@ -1,4 +1,4 @@
-！[EventPick](https://github.com/uqzzhao/EventPick/blob/master/examples/eventpick.png)
+![EventPick](https://github.com/uqzzhao/EventPick/blob/master/examples/eventpick.png)
 
 # EventPick
 A Qt C++ demo tool for the algorithms such as STA/LTA and energy ratio used in autmoatic microseismic event detection. 
